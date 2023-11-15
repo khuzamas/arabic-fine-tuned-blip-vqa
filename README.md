@@ -17,8 +17,11 @@ To start, run the following shell commands
 !pip install -q datasets
 ```
 The main code is the arabic-blip2-vqa.py
+
 The images are within the media folder
 
 ```
-NOTE! ensure importing the media folder within the same project folder. Otherwise, the path for each image in the dataset must be changed accordingly
+NOTE! ensure importing the media folder within the same project folder.
+
+Otherwise, the path for each image in the dataset must be changed accordingly
 ```
